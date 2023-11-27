@@ -1,4 +1,4 @@
-const apiKey = "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";
+const apiKey = "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";
 const apiUrl = "https://api.openai.com/v1/chat/completions";
 const chatContainer = document.querySelector(".chatContainer");
 const chatForm = document.querySelector(".chatForm");
